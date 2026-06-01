@@ -15,7 +15,7 @@ public class FieldInjectionExample implements Example {
 	/** 実行 */
 	@Override
 	public void run() {
-		sameService.doService();
+		someService.doService();
 
 	}
 
